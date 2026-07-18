@@ -35,7 +35,7 @@ The sandbox currently includes dynamic configuration translations for:
 Clone the repository, grant execution permissions to the shell script, and launch:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/wm-sandbox.git](https://github.com/YOUR_USERNAME/wm-sandbox.git)
+git clone [https://github.com/azzenabidi/wmsandox](https://github.com/azzenabidi/wm-sandbox.git)
 cd wm-sandbox
 chmod +x wm-sandbox.sh
 ./wm-sandbox.sh
